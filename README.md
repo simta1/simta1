@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junho0219)](https://solved.ac/junho0219/)
 <!-- 앳코더랑 코드포스 프로필 넣어야 함 -->
-
+<!--
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@simta1&layout=compact)](https://wakatime.com/@simta1)
+-->
