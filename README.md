@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src="https://github.com/simta1/simta1/blob/output/github-contribution-grid-snake.svg">
+</div>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junho0219)](https://solved.ac/junho0219/)
 <!-- 앳코더랑 코드포스 프로필 넣어야 함 -->
 <!--
