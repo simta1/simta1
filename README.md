@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junho0219)](https://solved.ac/junho0219/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junho0219)](https://solved.ac/junho0219/)  
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@simta1&layout=compact&langs_count=1)](https://wakatime.com/@simta1)  
+
 <!-- 앳코더랑 코드포스 프로필 넣어야 함 -->
 <!--
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@simta1&layout=compact)](https://wakatime.com/@simta1)
+**2025 ICPC Seoul Regional 예선** 3등  
+**The 2025 ICPC Seoul/Busan Regional** Encouragement Prize (10th place)  
 -->
